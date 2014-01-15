@@ -203,13 +203,13 @@
 
 	<!-- File sharing -->
 	<string name="File_sharing_active">파일 공유 동작</string>
-	<string name="ftp_server_hint">접속하시려면 윈도우 익스플로러 주소 창에 서버의 주소를 입력하시거나 또는 FTP 클라이언트를 사용하세요.</string>
+	<string name="ftp_server_hint">접속하시려면 윈도우 익스플로러 주소 창에 서버의 주소를 입력하시거나 FTP 클라이언트를 사용하세요.</string>
 	<string name="You_cannot_share_root_directory">사용자는 루트 디렉토리를 공유하실 수 없습니다</string>
 	<string name="File_sharing_stopped">파일 공유 중단됨</string>
 	<string name="None">없음</string>
-	<string name="You_have_to_be_connected_to_the_LAN_network">사용자가 지역 네트워크에 연결되어있어야 합니다</string>
-	<string name="Active">Active</string>
-	<string name="Inactive">동작중단</string>
+	<string name="You_have_to_be_connected_to_the_LAN_network">지역 네트워크에 연결되어있어야 합니다</string>
+	<string name="Active">동작중</string>
+	<string name="Inactive">중단됨</string>
 	<string name="FTP_Server">FTP 서버</string>
 	<string name="Shared_directory">공유할 디렉토리</string>
 	<string name="Type_to_change">변경하시려면 입력하세요</string>
@@ -677,17 +677,17 @@
 	<string name="Local_directory">일반 경로</string>
 	<string name="Default_panel">기본 패널</string>
 	<string name="Destination_type">대상 형식</string>
-	<string name="DiskUsage_not_installed">DiskUsage가 설치되지 않은 것 같습니다. 이 앱은 사용자에게 정확하고 유용한 저장소 사용량을 보여줍니다. 지금 설치하시겠습니까?</string>
+	<string name="DiskUsage_not_installed">DiskUsage가 설치되지 않은 것 같습니다. 이 앱은 정확하고 유용한 저장소 사용량을 보여줍니다. 지금 설치하시겠습니까?</string>
 	<string name="Text_copied_to_clipboard">텍스트가 클립보드로 복사되었습니다</string>
 	<string name="Force_english">영어 사용</string>
-	<string name="Force_english_summary">자신의 언어보다 영어 사용을 원한다면 체크하세요. 재시작후 적용됩니다.</string>
+	<string name="Force_english_summary">자신의 언어보다 영어 사용을 원한다면 체크하세요. 재시작 후 적용됩니다.</string>
 	<string name="Encoding">인코딩</string>
 	<string name="Network_thumbnails">네트워크 미리보기</string>
 	<string name="Network_thumbnails_summary">체크하시면 모바일 데이터 연결을 사용하는 동안 미리보기 할 이미지를 불러옵니다</string>
 	<string name="Copy_to">옆패널로 복사</string>
 	<string name="Move_to">옆패널로 이동</string>
 	<string name="Shortcut">바로가기</string>
-	<string name="Two_panels_in_landscape_summary">가로 방향에서 한번에 두 패널을 표시합니다</string>
+	<string name="Two_panels_in_landscape_summary">가로 방향에서 한번에 두개의 패널을 표시합니다</string>
 	<string name="Two_panels_in_landscape">가로 방향 두 패널</string>
 	<string name="Restart_prompt">변경값을 적용하시려면 앱을 재시작 하셔야 합니다. 계속하시겠습니까?</string>
 	<string name="Custom_color_scheme">사용자 정의 색상</string>
@@ -764,7 +764,7 @@
 	<string name="Standard">표준</string>
 	<string name="No_compression">압축 없음</string>
 	<string name="A_while_ago">얼마 전</string>
-	<string name="X_hours_Y_minutes_ago">%x 시간 %y 분 전</string>
+	<string name="X_hours_Y_minutes_ago">%x시간 %y분 전</string>
 	<!-- Already exists, just changed the content -->
 	<string name="Expiration_message">Solid Explorer를 이용해 주셔서 감사합니다. 시험판 사용기한이 만료되었습니다. 이 앱을 계속 사용하시려면 구글 플레이에서 unlocker를 구매해서 저희에게 맥주 한 잔 사주세요. 앱을 완전히 만족하실 때 구매해 주세요.</string>
 	<string name="Purchased_message">Solid Explorer 풀버전을 구입해 주셔서 감사합니다. 잘 사용하시기 바랍니다.</string>
@@ -794,7 +794,7 @@
 	<string name="Create_backup">백업 생성</string>
 	<string name="Backup_application_data_to_a_desired_file">앱 데이타를 원하는 파일로 백업합니다</string>
 	<string name="Restore_backup">백업 복원</string>
-	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">복원하시기 원하시는 백업 파일을 선택하세요</string>
+	<string name="Choose_a_backup_file_from_which_the_data_will_be_restored">복원하기를 원하시는 백업 파일을 선택하세요</string>
 	<string name="Data_backup_created">데이타 백업이 생성되었습니다</string>
 	<string name="Data_backup_restored">백업 데이타를 복원하였습니다</string>
 	<string name="Support">지원</string>
@@ -803,8 +803,8 @@
 	<string name="Trial_check_notice">Solid Explorer가 만료기간을 확인할 수 없습니다. 바로 또는 2일내에 인터넷 접속이 가능하도록 해 주세요. 그렇지 않으면 시험판 사용기한이 만료 됩니다.</string>
 	<string name="Back_goes_to_root">루트로 가기</string>
 	<string name="Back_goes_to_root_summary">뒤로가기 버튼을 눌렀을 때 루트 디렉토리까지 이동하도록 합니다</string>
-	<string name="Keep_the_screen_on">화면 켜짐 유지</string>
-	<string name="Keep_the_screen_on_summary">파일 전송중일 때는 화면을 켜둡니다. 화면이 꺼졌을 때 전송이 느려지는 경험을 하셨다면 체크하세요</string>
+	<string name="Keep_the_screen_on">화면 켜짐 방지</string>
+	<string name="Keep_the_screen_on_summary">파일 전송중일 때는 화면을 켜둡니다. 화면이 꺼졌을 때 전송이 느려진다면 체크하세요</string>
 
 	<!-- v 1.4.4 -->
 	<string name="Clear_thumbnails_on_exit">종료시 미리보기 비우기</string>
@@ -848,12 +848,12 @@
 	<string name="Passive">Passive</string>
 	<string name="Nomedia_on">.nomedia 파일이 생성되었습니다</string>
 	<string name="Nomedia_off">.nomedia 파일이 삭제되었습니다</string>
-	<string name="Wifi_disabled">WiFi가 꺼졌습니다</string>
-	<string name="Wifi_enabled">WiFi가 켜졌습니다</string>
+	<string name="Wifi_disabled">Wi-Fi가 꺼졌습니다</string>
+	<string name="Wifi_enabled">Wi-Fi가 켜졌습니다</string>
 	<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">이 항목을 기본값으로 변경하시겠습니까?</string>
 		
 	<!-- v 1.4.6 -->  
-	<string name="no_wifi_available">사용가능한 WIFI가 없습니다. 장치에 핫스팟 설정을 하시겠습니까?</string>  
+	<string name="no_wifi_available">사용가능한 Wi-Fi가 없습니다. 장치에 핫스팟 설정을 하시겠습니까?</string>  
 	<string name="disable_hotspot">핫스팟을 끄시겠습니까?</string>  
 		
 	<!-- v 1.5 -->
