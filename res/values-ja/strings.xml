@@ -487,9 +487,9 @@
 	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
     <string name="Appearance">外観</string>
 	<string name="Theme">テーマ</string>
-    <string name="Choose_between_preinstalled_themes">プリインストールされた中からテーマを選択します</string>
-    <string name="Light">淡色</string>
-    <string name="Dark">濃色</string>
+    <string name="Choose_between_preinstalled_themes">白と黒のどちらを基調としたテーマにするか選択します</string>
+    <string name="Light">白</string>
+    <string name="Dark">黒</string>
     
     <string name="Toggle_visibility_of_hidden_files">隠しファイルの表示を切り替えます</string>
     <string name="Show_hidden_files">隠しファイルを表示</string>
