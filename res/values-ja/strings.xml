@@ -890,5 +890,10 @@
 		<string name="Accept">信頼する</string>
 		<string name="Rescan_all_media">全てのメディアを再スキャン</string>
 		<string name="Rescan_all_media_summary">ファイル転送毎にメディアを再スキャンします。ギャラリーが正常に更新されない場合にお使いください。</string>
-
+		
+		<!-- v 1.5.7 -->
+		<string name="Chromecast_prompt">Solid ExplorerはChromecastに対応しました! プラグイン経由でローカルやリモートの動画をChromecastで再生できます。チェックしてみますか?</string>
+		<string name="Install_chromecast_plugin">Chromecastプラグインのインストール</string>
+		<string name="Install_chromecast_summary">Chromecastでローカルやリモートの動画を再生しましょう!</string>
+		
 </resources>
