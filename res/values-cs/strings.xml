@@ -814,5 +814,8 @@
        <string name="Accept">Přijmout</string>
        <string name="Rescan_all_media">Znovu prohledat všechna média</string>
        <string name="Rescan_all_media_summary">Po každém přenosu souborů znovu prohledá všechna média. Povolte, neaktualizuje-li se Vám řádně galerie.</string>
-
+    <!--  v 1.5.7 -->
+       <string name="Chromecast_prompt">Solid Explorer nyní podporuje Chromecast! S doplňkem Cast můžete přehrávat místní a vzdálená videa na svém Chromecast zařízení. Chcete se dozvědět více?</string>
+       <string name="Install_chromecast_plugin">Instalovat doplněk Chromecast</string>
+       <string name="Install_chromecast_summary">Přehrávejte místní a vzdálená videa na svém Chromecast zařízení!</string>
 </resources>
