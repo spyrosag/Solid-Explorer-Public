@@ -888,4 +888,8 @@
 		<string name="Rescan_all_media">Rescan all media</string>
 		<string name="Rescan_all_media_summary">Rescan all media after each file transfer. Use this option if the gallery doesn\'t update properly.</string>
 		
+		<!--  v 1.5.7 -->
+		<string name="Chromecast_prompt">Solid Explorer now supports Chromecast! With the Cast plugin you can play local and remote videos on your Chromecast. Would you like to check it out?</string>
+		<string name="Install_chromecast_plugin">Install Chromecast plugin</string>
+		<string name="Install_chromecast_summary">Play local and remote videos on your Chromecast!</string>
 </resources>
