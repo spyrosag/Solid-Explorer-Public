@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_media_load_timeout">Időtúllépés a média betöltésekor</string>
+    <string name="error_server_unaccessible">A médiakiszolgáló nem elérhető</string>
+    <string name="error_unknown_error">Média betöltése sikertelen</string>
+    <string name="connection_temp_lost">A kapcsolat a cast eszközzel ideiglenes megszakadt</string>
+    <string name="connection_recovered">A kapcsolat a cast eszközzel helyreállt</string>
+    <string name="connection_lost_retry">A kapcsolat a cast eszközzel ideiglenes megszakadt. Az alkalmazás megpróbálja helyreállítani a kapcsolatot, kérem próbálja meg később.</string>
+    <string name="connection_lost">Nincs létező kapcsolat cast eszközzel</string>
+    <string name="failed_to_perfrom_action">Sajnáljuk, probléma lépett fel a kívánt feladat végrehajtásakor</string>
+    <string name="oops">Hiba</string>
+    <string name="no_chromecast_device_found">Nem található Chromecast eszköz. Győzödjön meg róla, hogy be van kapcsolva és csatlakoztatva van a hálózathoz.</string>
+
+</resources>
+
