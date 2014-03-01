@@ -887,5 +887,8 @@
 	<string name="Rescan_all_media">Повторно сканиране на медията</string>
 	<string name="Rescan_all_media_summary">Сканира повторно цялата медия след всяко файлово прехвърляне. Използвайте тази опция, ако галерията не се обновява правилно.</string>
 
-
+	<!-- v 1.5.7 -->
+	<string name="Chromecast_prompt">Solid Explorer вече поддържа Chromecast! С Cast приставката можете да възпроизвеждате локални или отдалечени видео файлове с вашият Chromecast. Искате ли да го изпробвате сега?</string>
+	<string name="Install_chromecast_plugin">Инсталиране на Chromecast приставка</string>
+	<string name="Install_chromecast_summary">Възпроизвеждане на локални и отдалечети видео файлове с вашият Chromecast!</string>
 </resources>
