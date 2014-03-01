@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="error_media_load_timeout">Media loading timed out</string>
-    <string name="error_server_unaccessible">Media server was not reachable</string>
-    <string name="error_unknown_error">Failed to load the media</string>
-    <string name="connection_temp_lost">Connection to the cast device is temporarily lost</string>
-    <string name="connection_recovered">Connection to the cast device is recovered</string>
-    <string name="connection_lost_retry">Connection to the cast device has been temporarily lost. Application is trying to reover connection, please try again later.</string>
-    <string name="connection_lost">No connection to the cast device exist</string>
-    <string name="failed_to_perfrom_action">Sorry, ran into issues performing the task you wanted.</string>
-    <string name="oops">Error</string>
-    <string name="no_chromecast_device_found">No Chromecast device found. Please make sure it\'s turned on and connected to your network.</string>
+    <string name="error_media_load_timeout">Зареждането на медиа просрочи времето</string>
+    <string name="error_server_unaccessible">Медийния сървър е недостъпен</string>
+    <string name="error_unknown_error">Неуспешно зареждане на медиа</string>
+    <string name="connection_temp_lost">Връзката към cast устройството е временно изгубена</string>
+    <string name="connection_recovered">Връзката към cast устройството е възстановена</string>
+    <string name="connection_lost_retry">Връзката към cast устройството е временно изгубена. Приложението се опитва да възстанови връзката, моля опитайте отново по-късно.</string>
+    <string name="connection_lost">Не съществува връзка към устройството</string>
+    <string name="failed_to_perfrom_action">Съжалявам, възникна проблем при изпълнение на задачата, която искахте.</string>
+    <string name="oops">Грешка</string>
+    <string name="no_chromecast_device_found">Няма намерено Chromecast устройство. Моля, уверете се, че е включено и свързано към вашата мрежа.</string>
 
 </resources>
