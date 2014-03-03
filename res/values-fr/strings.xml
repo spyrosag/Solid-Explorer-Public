@@ -890,4 +890,8 @@
      <string name="Rescan_all_media">Rescanner les médias</string>
      <string name="Rescan_all_media_summary">Rescanner tous les médias après chaque transfert de fichier si la gallerie ne se met pas à jour correctement</string>
 
+<!-- v 1.5.7 -->
+     <string name="Chromecast_prompt">Solid Explorer prend désormais en charge Chromecast ! Avec le plugin Cast, vous pouvez lire des vidéos locales et distantes sur votre Chromecast. Voulez-vous vérifier ?</string>
+     <string name="Install_chromecast_plugin">Installer le plugin Chromecast</string>
+     <string name="Install_chromecast_summary">Lire des vidéos locales et distantes sur votre Chromecast !</string>
 </resources>
