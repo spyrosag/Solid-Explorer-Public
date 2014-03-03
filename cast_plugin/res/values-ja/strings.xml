@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_media_load_timeout">読み込みがタイムアウトしました。</string>
+    <string name="error_server_unaccessible">メディアサーバーに接続できません。</string>
+    <string name="error_unknown_error">メディアを読み込めませんでした。</string>
+    <string name="connection_temp_lost">キャスト端末への接続が途切れました。</string>
+    <string name="connection_recovered">キャスト端末に再接続しました。</string>
+    <string name="connection_lost_retry">キャスト端末への接続が途切れました。再接続するのでしばらくお待ちください。</string>
+    <string name="connection_lost">キャスト端末への接続がありません。</string>
+    <string name="failed_to_perfrom_action">申し訳ありませんがタスク実行中にエラーが発生しました。</string>
+    <string name="oops">エラー</string>
+    <string name="no_chromecast_device_found">Chromecast端末が見つかりません。起動してネットワークに接続しているか確認してください。</string>
+
+</resources>

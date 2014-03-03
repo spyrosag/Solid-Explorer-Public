@@ -487,9 +487,9 @@
 	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
     <string name="Appearance">外観</string>
 	<string name="Theme">テーマ</string>
-    <string name="Choose_between_preinstalled_themes">プリインストールされた中からテーマを選択します</string>
-    <string name="Light">淡色</string>
-    <string name="Dark">濃色</string>
+    <string name="Choose_between_preinstalled_themes">白と黒のどちらを基調としたテーマにするか選択します</string>
+    <string name="Light">白</string>
+    <string name="Dark">黒</string>
     
     <string name="Toggle_visibility_of_hidden_files">隠しファイルの表示を切り替えます</string>
     <string name="Show_hidden_files">隠しファイルを表示</string>
@@ -874,4 +874,26 @@
 		<string name="Mediafire_login">MediaFireにログイン</string>
 		<string name="No_master_password_set">マスターパスワードはセットされていません。</string>
 
+		<!-- v 1.5.1 -->
+		<string name="Ssl_certificate_is_not_trusted">証明書が認証されていません。信頼しますか?</string>
+		<string name="Issuer">発行者名</string>
+		<string name="Subject">情報</string>
+		<string name="Expiration">有効期限</string>
+		<string name="Common_name">一般名称</string>
+		<string name="Organization">組織名</string>
+		<string name="Organizational_unit">部門名</string>
+		<string name="Country">国</string>
+		<string name="State">州</string>
+		<string name="Algorithm">アルゴリズム</string>
+		<string name="Exponent">Exponent</string>
+		<string name="Key_length">鍵の長さ</string>
+		<string name="Accept">信頼する</string>
+		<string name="Rescan_all_media">全てのメディアを再スキャン</string>
+		<string name="Rescan_all_media_summary">ファイル転送毎にメディアを再スキャンします。ギャラリーが正常に更新されない場合にお使いください。</string>
+		
+		<!-- v 1.5.7 -->
+		<string name="Chromecast_prompt">Solid ExplorerはChromecastに対応しました! プラグイン経由でローカルやリモートの動画をChromecastで再生できます。チェックしてみますか?</string>
+		<string name="Install_chromecast_plugin">Chromecastプラグインのインストール</string>
+		<string name="Install_chromecast_summary">Chromecastでローカルやリモートの動画を再生しましょう!</string>
+		
 </resources>
