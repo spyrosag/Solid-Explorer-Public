@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="error_media_load_timeout">Kehabisan waktu ketika memuat media</string>
+	<string name="error_server_unaccessible">Server media tidak dapat dihubungi</string>
+	<string name="error_unknown_error">Gagal memuat media</string>
+	<string name="connection_temp_lost">Koneksi ke perangkat putus sesaat</string>
+	<string name="connection_recovered">Koneksi ke perangkat telah pulih kembali</string>
+	<string name="connection_lost_retry">Koneksi ke perangkat putus sesaat. Aplikasi akan mencoba untuk memulihkan koneksi ini, mohon mencobanya kembali.</string>
+	<string name="connection_lost">Tidak ada koneksi ke perangkat atau perangkat tidak ditemukan</string>
+	<string name="failed_to_perfrom_action">Mohon maaf terjadi masalah ketika mengeksekusi tugas.</string>
+	<string name="oops">Error</string>
+	<string name="no_chromecast_device_found">Chromecast tidak ditemukan. Pastikan chromecast sudah dinyalakan dan terhubung ke jaringan anda.</string>
+
+</resources>
