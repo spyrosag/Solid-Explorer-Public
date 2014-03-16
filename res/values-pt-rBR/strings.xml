@@ -807,5 +807,92 @@
     	<string name="Back_goes_to_root_summary">Permite ir para o diretório raíz com o botão Voltar</string>
     	<string name="Keep_the_screen_on">Mantem a tela ligada</string>
     	<string name="Keep_the_screen_on_summary">Mantem a tela ligada durante a transferência de arquivo. Ative caso tenha problemas com as transferências quando a tela se apaga.</string>
+    	
+    <!-- v 1.4.4 -->
+    	<string name="Clear_thumbnails_on_exit">Limpar miniaturas quando sair</string>
+    	<string name="Image_thumbnails_will_be_removed_on_app_exit">Miniaturas de imagens serão removidas na saída do aplicativo</string>
+		<string name="Toggle_nomedia">Alternar arquivo .nomedia</string>
+		<string name="Total_time">Tempo total</string>
+		<string name="Average_speed">Velocidade média</string>
+		<string name="Add_new_item">Adicionar novo item</string>
+		<string name="Application_chooser">Seletor de aplicativos</string>
+		<string name="Manage_associations">Gerenciar associações</string>
+		<string name="Manage_associations_summary">Especifica quais aplicativos devem abrir os tipos de arquivos desejados</string>
+		<string name="Choose_an_application">Escolha um aplicativo</string>
+		<string name="Application">Applicativo</string>
+		<string name="Extension">Extensão</string>
+		<string name="No_extension_specified">Extensão não especificada</string>
+		<string name="You_didn_t_choose_the_application">Você não escolheu o aplicativo</string>
+		<string name="Added_to_queue">Adicionado à fila</string>
+		<string name="Streaming">Transmissão</string>
+		<string name="There_is_already_the_same_file_in_temporary_directory">Já existe o mesmo arquivo no diretório temporário. Gostaria de abrir o arquivo em cache ou baixa-lo novamente?</string>
+		<string name="Download">Download</string>
+		<string name="X_files_updated">% arquivo{1:|__:s} atualizado{1:|__:s}</string>
+		<string name="Temporary_file_has_been_modified">O arquivo temporário %, foi modificado. Gostaria de envia-lo para atualiza-lo?</string>
+		<string name="Temporary_files_have_been_modified">% arquivo{1:|__:s} temporário{1:|__:s} modificado{1:|__:s}. /gostaria de envia-lo{1:|__:s}?</string>
+		<string name="Slide_from_bottom">Deslize de baixo</string>
+		<string name="Fall_down">Cair</string>
+		<string name="Come_in">Entrar</string>
+		<string name="Slide_from_right">Deslize da direita</string>
+		<string name="Slide_from_left">Deslize da esquerda</string>
+		<string name="Default">Padrão</string>
+		<string name="List_animations">Animações da lista</string>
+		<string name="List_animations_summary">Personaliza animações da lista de arquivos</string>
+		<string name="Clear_filter_history">Limpa histórico de filtros</string>
+		<string name="Clear_filter_history_summary">Apaga a lista com o histórico de filtros de pesquisa</string>
+		<string name="New_webdav_connection">Conexão WebDav</string>
+		<string name="WebDav_bookmarks">Favoritos WebDav</string>
+
+
+		<!--  v 1.4.5 -->
+		<string name="Domain">Domínio</string>
+		<string name="Mode">Modo</string>
+		<string name="Passive">Passivo</string>
+		<string name="Nomedia_on">Arquivo .nomedia criado</string>
+		<string name="Nomedia_off">Arquivo .nomedia apagado</string>
+		<string name="Wifi_disabled">WiFi desativada</string>
+		<string name="Wifi_enabled">WiFi ativada</string>
+		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Tem certeza que deseja restaurar as configurações padrões para este item?</string>
+
+
+		<!-- v 1.4.6 -->
+		<string name="no_wifi_available">Wifi não disponível. Gostaria de configurar um ponto de acesso em seu dispositivo?</string>
+		<string name="disable_hotspot">Desativar ponto de acesso?</string>
+
+		<!-- v 1.5 -->
+		<string name="Any_type">Qualquer tipo</string>
+		<string name="Ubuntu_one_login">Login do Ubuntu One</string>
+		<string name="Master_password_has_been_changed">A senha mestre foi alterada</string>
+		<string name="Encryption">Criptografia</string>
+		<string name="Certificates">Certificados</string>
+		<string name="Trust_all_ssl_certificates">Confiar em todos os certificados SSL</string>
+		<string name="Use_at_your_own_risk">Use por sua conta e risco</string>
+		<string name="Gestures">Gestos</string>
+		<string name="Enable_list_zoom">Ativar zoom da lista</string>
+		<string name="Enable_list_zoom_summary">Quando ativo, você pode alterar o tamanho da lista usando gesto de pinça</string>
+		<string name="Mediafire_login">Login do MediaFire</string>
+		<string name="No_master_password_set">Senha mestre não definida</string>
+
+		<!-- v 1.5.1 -->
+		<string name="Ssl_certificate_is_not_trusted">O certificado não é assinado por uma autoridade confiável. Quer aceitá-lo?</string>
+		<string name="Issuer">Certificador</string>
+		<string name="Subject">Sujeito</string>
+		<string name="Expiration">Expiração</string>
+		<string name="Common_name">Nome comum</string>
+		<string name="Organization">Organização</string>
+		<string name="Organizational_unit">Unidade Organizacional</string>
+		<string name="Country">País</string>
+		<string name="State">/estado</string>
+		<string name="Algorithm">Algorítimo</string>
+		<string name="Exponent">Expoente</string>
+		<string name="Key_length">Tamanho da chave</string>
+		<string name="Accept">Aceitar</string>
+		<string name="Rescan_all_media">Procurar por todas as mídias</string>
+		<string name="Rescan_all_media_summary">Rescan todas as mídias após cada transferência de arquivo. Use essa opção de a galeria não está atualizando adequadamente.</string>
+
+		<!--  v 1.5.7 -->
+		<string name="Chromecast_prompt">O Solid Explorer agora tem suporte ao Chromecast! Com o plugin do Cast, você pode assistir vídeos locais e remotos em seu Chromecast. Gostaria de dar uma olhada?</string>
+		<string name="Install_chromecast_plugin">Instalar o plugin do Chromecast</string>
+		<string name="Install_chromecast_summary">Play vídeos locais e remotos em seu Chromecast!</string>
 
 </resources>
