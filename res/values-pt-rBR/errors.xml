@@ -51,4 +51,14 @@
     <!-- 1.4.3 -->
     <string name="Unlocker_error">O destravador foi encontrado mas retornou um erro. Isso geralmente acontece quando outro aplicativo bloqueia as permissões, como um antivírus. CErtifique-se que o Solid Explorer e o destravador não estão em nenhuma lista negra e reinicie o aplicativo.</string>
     <string name="Unable_to_get_the_link">Impossível pegar o link</string>
+    
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">O recurso requerido foi movido</string>
+    <string name="Invalid_syntax">Sintaxe inválida</string>
+    <string name="Service_unavailable">Serviço temporariamente indisponível, por favor, tente novamente mais tarde</string>
+    <string name="Unauthorized">Sem autorização, por favor, faça o login nvamente</string>
+    <string name="Resource_not_found">Recurso não encontrado</string>
+    <string name="Method_not_allowed">Método requisitado não permitido para este recurso</string>
+    <string name="Timeout_reached">Tempo-limite esgotado</string>
+    
 </resources>
