@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_media_load_timeout">Il caricamento del file multimediale ha superato il tempo limite</string>
+    <string name="error_server_unaccessible">Il server multimediale non è raggiungibile</string>
+    <string name="error_unknown_error">Impossibile caricare il file multimediale</string>
+    <string name="connection_temp_lost">La connessione con il dispositivo di casting è stata temporaneamente persa</string>
+    <string name="connection_recovered">La connessione con il dispositivo di casting è stata ristabilita</string>
+    <string name="connection_lost_retry">La connessione al dispositivo di casting è stata temporaneamente persa. L'applicazione sta provando a recuperare la connessione, per favore riprova tra poco.</string>
+    <string name="connection_lost">Non esiste una connessione al dispositivo di casting</string>
+    <string name="failed_to_perfrom_action">Mi spiace, qualcosa è andato storto durante lo svolgimento del compito richiesto.</string>
+    <string name="oops">Errore</string>
+    <string name="no_chromecast_device_found">Nessun Chromecast trovato. Per favore assicurati che sia acceso e connesso alla tua rete.</string>
+
+</resources>
