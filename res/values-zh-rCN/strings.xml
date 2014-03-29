@@ -830,4 +830,8 @@
     <string name="Rescan_all_media">重新扫描所有媒体</string>
     <string name="Rescan_all_media_summary">移动文件后重新扫描所有媒体，如果相册无法正常更新，请勾选些项。</string>
 
+    <!-- v 1.5.7 -->
+    <string name="Chromecast_prompt">Solid Explorer 现在支持 Chromecast 了！通过 Cast 插件你可以使用你的 Chromecast 播放本地或者远程的视频，想要现在安装吗？</string>
+    <string name="Install_chromecast_plugin">安装 Chromecast 插件</string>
+    <string name="Install_chromecast_summary">使用 Chromecast 播放本地或者远程视频！</string>
 </resources>
