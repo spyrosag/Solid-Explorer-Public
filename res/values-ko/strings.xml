@@ -887,4 +887,8 @@
 	<string name="Rescan_all_media">모든 미디어 새로고침</string>
 	<string name="Rescan_all_media_summary">파일 전송후 모든 저장소 미디어를 다시 스캔합니다. 갤러리가 정상적으로 갱신되지 않을 때 사용 하세요.</string>
 	
+	<!--  v 1.5.7 -->
+	<string name="Chromecast_prompt"> Solid Explorer가 크롬캐스트를 지원합니다! Cast 플러그인으로 로컬과 크롬캐스트의 원격비디오를 재생할 수 있습니다. 확인해 보시겠습니까?</string>
+	<string name="Install_chromecast_plugin">크롬캐스트 플러그인 설치</string>
+	<string name="Install_chromecast_summary">크롬캐스트의 원격 비디오를 재생할 수 있습니다!</string>
 </resources>
