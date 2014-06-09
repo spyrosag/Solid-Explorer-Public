@@ -885,4 +885,9 @@
 <string name="Rescan_all_media">Összes média újraszkennelése</string>
 <string name="Rescan_all_media_summary">Minden fájlátvitel után újraszkenneli az összes médiát. Használja ezt az opciót, ha a galéria nem frissül megfelelően.</string>
 
+	<!-- v 1.5.7 -->
+<string name="Chromecast_prompt">A Solid Explorer már a Chromecast eszközöket is támogatja! A Cast beépülővel lejátszhat helyi és távoli videókat a Chromecast eszközön. Szeretné megnézni?</string>
+<string name="Install_chromecast_plugin">Chromecast beépülő telepítése</string>
+<string name="Install_chromecast_summary">Játszon le helyi és távoli videókat a Chromecast eszközén!</string>
+
 </resources>

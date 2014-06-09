@@ -815,4 +815,9 @@ Krzysztof Głodowski"</string>
         <string name="Accept">Prijať</string>
         <string name="Rescan_all_media">Prehľadať všetky mediálne súbory</string>
         <string name="Rescan_all_media_summary">Prehľadať všetky médiálne súbory po každom prenose súborov. Túto voľbu použite v prípade, že galérie neaktualizuje správne.</string>
+
+			<!--  v 1.5.7 -->
+	<string name="Chromecast_prompt">Solid Explorer odteraz podporuje Chromecast! S doplnkom Cast plugin môžete prehrávať miestne a vzdialené videá na vašom zariadení Chromecast. Chcete získať ďalšie informácie?</string>
+	<string name="Install_chromecast_plugin">Nainštalovať doplnok Chromecast</string>
+	<string name="Install_chromecast_summary">Prehrávajte miestne alebo vzdialené videá na vašom zariadení Chromecast!</string>
 </resources>

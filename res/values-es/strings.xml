@@ -52,7 +52,7 @@
     <string name="Cloud_storage">Almacenamiento en la nube</string>
     
     <!-- "Device" popup -->
-     <string name="System_root">Raíz del sistema</string>
+    <string name="System_root">Raíz del sistema</string>
     <string name="SD_card">Tarjeta SD</string>
     <string name="Internal_memory">Memoria interna</string>
     <string name="USB_drive_x">USB %x</string>
@@ -99,12 +99,12 @@
     <string name="Yes">Si</string>
     <string name="No">No</string>
     
-	    <!-- New folder/file dialog -->
-	    <string name="Enter_the_name">Introducir el nombre</string>
+	<!-- New folder/file dialog -->
+	<string name="Enter_the_name">Introducir nombre</string>
 	    
-	    <!-- New connection Dialog -->
-	    <string name="Display_name">Mostrar el nombre</string>
-	    <string name="May_be_empty">Puede estar vacío</string>
+	<!-- New connection Dialog -->
+	<string name="Display_name">Mostrar el nombre</string>
+	<string name="May_be_empty">Puede estar vacío</string>
     	<string name="Remote_path">Ruta remota</string>
     	<string name="Port">Puerto</string>
     	<string name="User_name">Nombre de usuario</string>
@@ -119,7 +119,7 @@
     	<string name="Share">Compartir SMB</string>
     	
     		<!-- Auth methods -->
-    		<string name="Ask_for_password_each_time">Siempre preguntar contraseña</string>
+    		<string name="Ask_for_password_each_time">Preguntar siempre contraseña</string>
         	<string name="Store_encrypted_password">Almacenar contraseñas encriptadas</string>
         	<string name="No_password_required">No se requiere contraseña</string>
         	<string name="Anonymous">Anónimo</string>
@@ -166,8 +166,8 @@
     	<string name="File_move">Mover archivo</string>
     	<string name="File_delete">Borrar archivo</string>
     	<string name="Temporary_download">Descarga temporal</string>
-   	 	<string name="Creating_archive">Creando % archivo</string>
-    	<string name="Extracting_archive">Extrayendo % archivo</string>
+   	<string name="Creating_archive">Creando archivo %</string>
+    	<string name="Extracting_archive">Extrayendo archivo %</string>
     	<string name="X_has_been_completed">% ha sido completado.</string>
     	<string name="X_has_failed">% ha fallado.</string>
     	<string name="Tap_to_show_details">Pulse para ver los detalles</string>
@@ -486,8 +486,8 @@
 	<!-- NOTE FROM STEVEN: The Android Design Guideline prefers that you have two strings for each check box: One for when it is selected, and one for when it is not.-->
 	<!-- For example, instead of "Toggle visibility of hidden files", have two strings: "Show hidden files" and "Don't show hidden files".-->
     <string name="Appearance">Apariencia</string>
-	<string name="Theme">Tema</string>
-    <string name="Choose_between_preinstalled_themes">Elije entre los temas preinstalados</string>
+    <string name="Theme">Tema</string>
+    <string name="Choose_between_preinstalled_themes">Elija entre los temas preinstalados</string>
     <string name="Light">Claro</string>
     <string name="Dark">Oscuro</string>
     
@@ -507,7 +507,7 @@
     <string name="Use_fast_scroll">Usar desplazamiento rápido</string>
     
     <string name="Low_quality_thumbnails">Miniaturas de baja calidad</string>
-    <string name="Low_quality_thumbnails_summary">Conveniente para bajo uso de memoria</string>
+    <string name="Low_quality_thumbnails_summary">Minimiza el uso de memoria</string>
     
     <string name="Portrait_fullscreen">Modo vertical en pantalla completa</string>
     <string name="Portrait_fullscreen_summary">Oculta la barra de estado del sistema en modo vertical</string>
@@ -532,7 +532,7 @@
     <string name="Startup">Inicio</string>
     
     <string name="Remember_last_folder">Recordar última carpeta</string>
-    <string name="Will_start_with_recently_viewed_directories">La aplicación se iniciará con los últimos directorios vistos</string>
+    <string name="Will_start_with_recently_viewed_directories">La aplicación se iniciará con las últimas carpetas abiertas</string>
     
     
     <string name="First_panel_default_dir">Directorio de primer panel</string>
@@ -543,9 +543,9 @@
     
     <string name="Drag_and_drop">Arrastrar y soltar</string>
     <string name="Action_for_drop_inside_the_panel">Acción para el mismo panel</string>
-    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Soltando un elemento a una carpeta del mismo panel</string>
+    <string name="Dropping_an_item_to_a_folder_in_the_same_panel">Al soltar un elemento a una carpeta del mismo panel</string>
     <string name="Action_for_drop_to_the_second_panel">Acción para el segundo panel</string>
-    <string name="Dropping_an_item_to_the_second_panel">Soltando un elemento a una carpeta del segundo panel</string>
+    <string name="Dropping_an_item_to_the_second_panel">Al soltar un elemento a una carpeta del segundo panel</string>
     <string name="Move">Mover</string>
     
     <string name="Security">Seguridad</string>
@@ -655,7 +655,7 @@
 	
     <string name="Icon_designer">Diseñador de icono</string>
     <string name="Translations">Traducción</string>
-    <string name="Translations_summary">Corrección de idioma y traducción por cortesía de Hugo Navia (AKA :No-Frost:)</string>
+    <string name="Translations_summary">Corrección de idioma y traducción por cortesía de Hugo Navia (AKA :No-Frost:) y Miguel Mulero (AKA McGiverGim)</string>
     <string name="Press_once_again_to_exit">Pulse una vez más para salir</string>
     
     
@@ -681,7 +681,7 @@
     <string name="Force_english_summary">Comprueba si prefiere el Inglés como idioma principal. Se activa después de reiniciar.</string>
     <string name="Encoding">Codificando</string>
     <string name="Network_thumbnails">Miniaturas de red</string>
-    <string name="Network_thumbnails_summary">Cuando se activa, miniaturas de las imágenes se cargarán durante el uso de la conexión de datos móviles.</string>
+    <string name="Network_thumbnails_summary">Cuando se activa, se cargan las miniaturas de las imágenes usando la conexión de datos móviles.</string>
     <string name="Copy_to">Copiar a</string>
     <string name="Move_to">Mover a</string>
     <string name="Shortcut">Atajo</string>
@@ -749,7 +749,7 @@
 	<string name="Device_labels">Etiquetas de dispositivos</string>
 	<string name="Device_labels_summary">Mostrar etiquetas legibles en lugar de nombres de directorios reales, ej. \&quot;Tarjeta SD\&quot; en lugar de \&quot;sdcard0\&quot;</string>
 	<string name="Swap_device_labels">Intercambiar etiquetas de dispositivos</string>
-	<string name="Swap_device_labels_summary">Intercambiar etiquetas de Memoria Interna con Tarjeta SD en caso de detección incorrecta.</string>
+	<string name="Swap_device_labels_summary">Intercambia las etiquetas Memoria Interna y Tarjeta SD en caso de detección incorrecta.</string>
 	<string name="Panels">Paneles</string>
 	<string name="Devices">Dispositivos</string>
 
@@ -800,7 +800,11 @@
     	<string name="Support_summary">Visita la página de soporte de Solid Explorer</string>
     	<string name="Experimental_feature_notifier">Por favor, tenga en cuenta que esta funcionalidad es experimental y puede que no funcione correctamente en su actual versión de Android.</string>
     	<string name="Trial_check_notice">Solid Explorer no puede verificar el período de prueba. Por favor, active en algún momento la conexión a internet en los próximos dos días. En caso contrario su período de prueba se acabará.</string>
-
+	<string name="Back_goes_to_root">Volver va al raiz</string>
+    	<string name="Back_goes_to_root_summary">Permite ir al directorio raiz cuando se pulsa el botón Volver</string>
+    	<string name="Keep_the_screen_on">Mantener pantalla encendida</string>
+    	<string name="Keep_the_screen_on_summary">Mantiene la pantalla encendida durante la transferencia de archivos. Márquelo si experimenta ralentizaciones en las transferencias cuando la pantalla está apagada.</string>
+    	
     	<!-- v 1.4.4 -->
       	<string name="Clear_thumbnails_on_exit">Borrar miniaturas al salir</string>
       	<string name="Image_thumbnails_will_be_removed_on_app_exit">Las miniaturas de imágenes se eliminarán al salir de la aplicación</string>
@@ -881,4 +885,9 @@
     	<string name="Rescan_all_media">Buscar de nuevo multimedia</string>
     	<string name="Rescan_all_media_summary">Vuelve a buscar archivos multimedia después de cada transferencia de archivos. Use esta opción si la galería no se actualiza correctamente.</string>    	
     	
+    	<!--  v 1.5.7 -->
+ 	<string name="Chromecast_prompt">¡Solid Explorer es compatible con Chromecast! Con el plugin Cast puede reproducir vídeos locales y remotos en su Chromecast. ¿Quiere probarlo?</string>
+ 	<string name="Install_chromecast_plugin">Instalar plugin Chromecast</string>
+ 	<string name="Install_chromecast_summary">¡Reproduzca vídeos locales y remotos en su Chromecast!</string>
+ 	
 </resources>
