@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_media_load_timeout">Tiempo de espera superado cargando archivo</string>
+    <string name="error_server_unaccessible">No se puede alcanzar el Servidor de Medios</string>
+    <string name="error_unknown_error">Error al cargar archivo</string>
+    <string name="connection_temp_lost">Se ha perdido temporalmente la conexión con el dispositivo cast</string>
+    <string name="connection_recovered">Se ha recuperado la conexión con el dispositivo cast</string>
+    <string name="connection_lost_retry">Se ha perdido temporalmente la conexión con el dispositivo cast. La aplicación está intentando recuperar la conexión, inténtelo de nuevo más tarde por favor.</string>
+    <string name="connection_lost">No existe conexión con el dispositivo cast</string>
+    <string name="failed_to_perfrom_action">No se pudo ejecutar la tarea solicitada.</string>
+    <string name="oops">Error</string>
+    <string name="no_chromecast_device_found">No se ha encontrado el dispositivo Chromecast. Asegurese de que está encendido y conectado a la red.</string>
+
+</resources>
