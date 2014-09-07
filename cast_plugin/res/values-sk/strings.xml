@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_media_load_timeout">Vypršal časový limit pre načítanie média</string>
+    <string name="error_server_unaccessible">Mediálny server bol nedostupný</string>
+    <string name="error_unknown_error">Nepodarilo sa načítať médium</string>
+    <string name="connection_temp_lost">Pripojenie k zariadeniu na prenos sa dočasne stratilo</string>
+    <string name="connection_recovered">Pripojenie k zariadeniu na prenos sa obnovilo</string>
+    <string name="connection_lost_retry">Pripojenie k zariadeniu na prenos sa dočasne stratilo. Aplikácia sa pokúša obnoviť spojenie, prosím, skúste to znova neskôr.</string>
+    <string name="connection_lost">Neexistuje žiadne pripojenie k zariadeniu na prenos</string>
+    <string name="failed_to_perfrom_action">Ospravedlňujeme sa, narazili sme problémy pri plnení úlohy, ktorú ste chceli vykonať.</string>
+    <string name="oops">Chyba</string>
+    <string name="no_chromecast_device_found">Nenašlo sa žiadne Chromecast zariadenie. Prosím, skontrolujte či je zapnuté a pripojené k vašej sieti.</string>
+
+</resources>
