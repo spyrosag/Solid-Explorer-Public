@@ -625,7 +625,7 @@
     <string name="Help_make_Solid_Explorer_better">Segítsen jobbá tenni a Solid Explorert</string>
     <string name="Report_a_bug">Hibajelentés</string>
    
-    <string name="About">A progamról</string>
+    <string name="About">A programról</string>
     <string name="Author_version_and_changelog">Szerző, verzió és változások</string>
     <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Głodowski</string>
     <string name="Version">Verzió</string>
@@ -888,6 +888,6 @@
 	<!-- v 1.5.7 -->
 <string name="Chromecast_prompt">A Solid Explorer már a Chromecast eszközöket is támogatja! A Cast beépülővel lejátszhat helyi és távoli videókat a Chromecast eszközön. Szeretné megnézni?</string>
 <string name="Install_chromecast_plugin">Chromecast beépülő telepítése</string>
-<string name="Install_chromecast_summary">Játszon le helyi és távoli videókat a Chromecast eszközén!</string>
+<string name="Install_chromecast_summary">Játsszon le helyi és távoli videókat a Chromecast eszközén!</string>
 
 </resources>
