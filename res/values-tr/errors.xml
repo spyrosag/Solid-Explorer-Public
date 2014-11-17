@@ -52,8 +52,16 @@
     <string name="Unlocker_error">Kilit açıcı bulundu fakat bir hata meydana geldi. Genelde başka bir uygulama tarafından erişimi kısıtlandığında meydana gelir, örn. antivirus uygulaması. Solid Explorer\'ın herhangi bir kara listede olmadığından emin olun ve uygulamayı yeniden başlatın.</string>
     <string name="Unable_to_get_the_link">Bağlantı alınamıyor</string>
     
-        <!-- 1.4.3 -->
+    <!-- 1.4.3 -->
     <string name="Unlocker_error">Tam sürüm uygulaması bulundu ancak hata bildirdi. Bu genelde uygulamanın bir başka uygulama tarafından (ör. antivirüs uygulaması) yetkisinin kısıtlanmasından dolayı olur. Solid Explorer\'ın ve tam sürüm uygulamasının herhangi bir uygulama üzerinde kara listede olmadığına emin olun ve uygulamayı tekrar çalıştırın.</string>
     <string name="Unable_to_get_the_link">Bağlantı adresi alınamadı</string>
     
+    <!-- 1.5 -->
+    <string name="Requested_resource_has_been_moved">İstenen kaynak konumdan taşınmış</string>
+    <string name="Invalid_syntax">Geçersiz sözdizim</string>
+    <string name="Service_unavailable">Hizmet geçici olarak mevcut değil, lütfen daha sonra tekrar deneyin</string>
+    <string name="Unauthorized">Yetkilendirilme yapılmamış, lütfen tekrar giriş yapın</string>
+    <string name="Resource_not_found">Kaynak bulunamadı</string>
+    <string name="Method_not_allowed">İstenen yöntem bu kaynak için mevcut değil</string>
+    <string name="Timeout_reached">Zaman aşımına ulaşıldı</string>
 </resources>
