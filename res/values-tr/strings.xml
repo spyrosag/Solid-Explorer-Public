@@ -74,7 +74,7 @@
     <string name="Extract">Ayrıştır</string>
     <string name="Extract_to">Hedefe Ayrıştır</string>
     <string name="Archive">Arşiv</string>
-    <string name="Paste_to_x">\"%\" konumuna yapıştır.</string>
+    <string name="Paste_to_x">\&quot;%\&quot; konumuna yapıştır.</string>
     <!-- Dialogs -->
     <string name="OK">Tamam</string>
     <string name="Cancel">İptal</string>
