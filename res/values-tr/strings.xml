@@ -753,7 +753,6 @@
     <string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Bu öğe için varsayılan ayarları geri getirmek istiyor musunuz?</string>
     <!-- v 1.4.6 -->
     <string name="no_wifi_available">Kablosuz bağlantı mevcut değil, cihazınız için bir hotspot kurulumu yapmak ister misiniz?</string>
-    <string name="no_wifi_available">No wifi available. Would you like to setup a hot spot on your device?</string>
     <string name="disable_hotspot">Hotspot'ı kapat</string>
     <!-- v 1.5 -->
     <string name="Any_type">Herhangi bir tür</string>
@@ -762,7 +761,7 @@
     <string name="Encryption">Şifreleme</string>
     <string name="Certificates">Sertifikalar</string>
     <string name="Trust_all_ssl_certificates">Bütün SSL sertifikalarına güven</string>
-    <string name="Use_at_your_own_risk">Kullanırken kendinizden sorumlusunuz!</string>
+    <string name="Use_at_your_own_risk">Kullanım risklerinden siz sorumlusunuz!</string>
     <string name="Gestures">Hareketler</string>
     <string name="Enable_list_zoom">Liste yakınlaştırmayı aktifleştir</string>
     <string name="Enable_list_zoom_summary">Aktifleştirdiğinizde sıkıştırma hareketi ile yakınlaştırma yapmanıza olanak sağlar.</string>
