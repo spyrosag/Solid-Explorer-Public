@@ -890,4 +890,13 @@
 <string name="Install_chromecast_plugin">Chromecast beépülő telepítése</string>
 <string name="Install_chromecast_summary">Játsszon le helyi és távoli videókat a Chromecast eszközén!</string>
 
+	<!-- v 1.6.3 -->
+<string name="sd_card_grant_first">A művelet végrehajtásához hozzáférést kell adni az SD kártyához a Solid Explorer részére. Kérjük válassza ki a kívánt tárhelyet a bal oldalsávon és érintse meg a kiválasztás gombot az alján. Győződjön meg arról, hogy a tárhely gyökérmappájában van.</string>
+<string name="sd_card_grant_next">A kiválasztott mappa nem megfelelő. Kérjük válassza ki a kívánt tárhelyet a bal oldalsávon és érintse meg a kiválasztás gombot az alján. Győződjön meg arról, hogy a tárhely gyökérmappájában van.</string>
+<string name="external_storage_permission">Külső tárhely hozzáférések</string>
+<string name="grant">Engedélyez</string>
+<string name="social_networks">Szeretne friss információkat? Kövesse a Solid Explorer fejlesztését a Facebookon, Twitteren és Google+-on</string>
+<string name="follow_me">Kövessen!</string>
+<string name="follow_me_summary">Naprakész információk a Solid Explorerről</string>
+<string name="follow_me_new_version">Kedves felhasználó.\nA Solid Explorer új verziója egyre közelebb van a végleges kiadáshoz. Ezzel "Anyagszerű" kinézetet és új beépülő architektúrát kap, amivel könnyebb lesz a későbbi fejlesztés. Ha szeretne naprakész információkat a fejlesztésről, akkor nyugodtan kövessen a Facebookon, Twitteren és a Google+-on. Köszönöm!</string>
 </resources>
