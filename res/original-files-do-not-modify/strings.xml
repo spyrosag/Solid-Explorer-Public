@@ -625,7 +625,7 @@
    
     <string name="About">About</string>
     <string name="Author_version_and_changelog">Author, version and changelog</string>
-    <string name="Copyright_text">Copyright 2011-2013 \nKrzysztof Głodowski</string>
+    <string name="Copyright_text">Copyright 2011-2014 \nKrzysztof Głodowski</string>
     <string name="Version">Version</string>
     <string name="Changelog">Changelog</string>
     <string name="Whats_new">What\'s new</string>
@@ -892,4 +892,18 @@
 		<string name="Chromecast_prompt">Solid Explorer now supports Chromecast! With the Cast plugin you can play local and remote videos on your Chromecast. Would you like to check it out?</string>
 		<string name="Install_chromecast_plugin">Install Chromecast plugin</string>
 		<string name="Install_chromecast_summary">Play local and remote videos on your Chromecast!</string>
+		
+		<!--  v 1.5.9 -->
+		<string name="Kitkat_notice">Unable to modify contents of the SD card. This is caused by new external storage policy introduced by Google in Android 4.4. 
+		    To bypass this limitation you need to use one of \"sd fix\" tools available in Google Play. You need to be rooted, though.</string>
+		    
+		<!-- v 1.6.3 -->
+		<string name="sd_card_grant_first">You need to grant SD card access to Solid Explorer in order to complete this operation. Please select desired storage device from the left sidebar and then tap the select button at the bottom. Make sure you\'re in root of this storage.</string>
+		<string name="sd_card_grant_next">The directory you\'ve just selected is incorrect. Please select desired storage device from the left sidebar and then tap the select button at the bottom. Make sure you\'re in root of this storage.</string>
+		<string name="external_storage_permission">External storage permission</string>
+		<string name="grant">Grant</string>
+		<string name="social_networks">Want to stay up to date with the news? Follow Solid Explorer development on Facebook, Twitter and Google+</string>
+		<string name="follow_me">Follow me!</string>
+		<string name="follow_me_summary">Keep up to date with news about Solid Explorer</string>
+		<string name="follow_me_new_version">Dear user.\nThe new version of Solid Explorer is getting closer to final release. It will feature Material Design and plugin architecture, which will make it easier to develop in the future. If you want to be up to date with the development, feel free to follow it on Facebook, Twitter and Google+. Thank you!</string>
 </resources>
