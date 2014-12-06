@@ -623,7 +623,7 @@
    
     <string name="About">Acerca de</string>
     <string name="Author_version_and_changelog">Autor, versión y cambios</string>
-    <string name="Copyright_text">Derechos de autor 2011-2013 \nKrzysztof Głodowski</string>
+    <string name="Copyright_text">Derechos de autor 2011-2014 \nKrzysztof Głodowski</string>
     <string name="Version">Versión</string>
     <string name="Changelog">Historial de cambios</string>
     <string name="Whats_new">Novedades</string>
@@ -890,4 +890,18 @@
  	<string name="Install_chromecast_plugin">Instalar plugin Chromecast</string>
  	<string name="Install_chromecast_summary">¡Reproduzca vídeos locales y remotos en su Chromecast!</string>
  	
+ 	<!--  v 1.5.9 -->
+	<string name="Kitkat_notice">No es posible modificar los contenidos de la tarjeta SD. Esto es a causa de la nueva política de almacenamiento introducida por Google en Android 4.4.
+	   Para superar esta limitación puede utilizar alguna de las herramientas de tipo \"sd fix\" disponibles en Google Play. Eso sí, sólo para usuarios root.</string>
+	   
+ 	<!-- v 1.6.3 -->	
+ 	<string name="sd_card_grant_first">Hay que dar acceso a la tarjeta SD a Solid Explorer para poder realizar esta operación. Por favor, selecciona el dispositivo de almacenamiento deseado desde el menú lateral izquierdo y pulsa el botón inferior para realizar la selección. Asegurese de ser root en ese dispositivo.</string>
+	<string name="sd_card_grant_next">El directorio seleccinado es incorrecto. Por favor, selecciona el dispositivo de almacenamiento deseado desde el menú lateral izquierdo y pulsa el botón inferior para realizar la selección. Asegurese de ser root en ese dispositivo.</string>
+	<string name="external_storage_permission">Permiso para almacenamiento externo</string>
+	<string name="grant">Permitir</string>
+	<string name="social_networks">¿Quiere estar al día con las novedades? Siga el desarrollo de Solid Explorer en Facebook, Twitter y Google+</string>
+	<string name="follow_me">¡Sígueme!</string>
+	<string name="follow_me_summary">Novedades de Solid Explorer</string>
+	<string name="follow_me_new_version">Querido usuario.\nLa nueva versión de Solid Explorer está llegando a su fase final de desarrollo. Incorporará Material Design y arquitectura de plugins, lo que hará que sea más fácil de desarrollar en el futuro. Si quiere estar al día en el desarrollo, puede seguirlo en Facebook, Twitter y Google+. ¡Gracias!</string>
+
 </resources>
