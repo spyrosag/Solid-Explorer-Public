@@ -696,7 +696,7 @@
     <string name="Hue">Tono</string>
     <string name="Saturation">Saturación</string>
 	<string name="SolidExplorer_is_running">Solid Explorer está en ejecución</string>
-    <string name="Notification_shortcut">Atajo en notificación</string>
+    <string name="Notification_shortcut">Atajo en notificaciones</string>
     <string name="Notification_shortcut_summary">Agrega un acceso directo en la barra de estado cuando la aplicación se ejecuta en segundo plano</string>
     <string name="Please_wait">Por favor, espere</string>
     
