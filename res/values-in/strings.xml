@@ -887,5 +887,23 @@
 	<string name="Accept">Terima</string>
 	<string name="Rescan_all_media">Pindai ulang semua media</string>
 	<string name="Rescan_all_media_summary">Pindai ulang semua media ketika perpindahan file selesai. Gunakan opsi ini jika galeri tidak terbaharui secara otomatis.</string>
-		
+	
+	<!-- v 1.5.7 -->
+	<string name="Chromecast_prompt">Sekarang Solid Explorer mendukung supports Chromecast! Dengan plguin Cast anda dapat memutar video yang ada pada SD Card atau ada di jaringan pada Chromecast anda. Apakah anda mau mencobanya?</string>
+	<string name="Install_chromecast_plugin">Pasang plugin Chromecast</string>
+	<string name="Install_chromecast_summary">Putar video anda di Chromecast!</string>
+	
+	<!-- v 1.5.9 -->
+	<string name="Kitkat_notice">Tidak dapat memanipulasi konten yang ada pada SD card. Hal ini disebabkan oleh perubahan aturan yang diterapkan oleh Google pada Android 4.4.
+	Untuk mengatasi permasalahan ini anda harus menggunakan salah satu aplikasi \"sd fix\" yang ada di Google Play. Pastikan perangkat anda sudah ter-rooted.</string>
+	
+	<!-- v 1.6.3 -->
+	<string name="sd_card_grant_first">Untuk menyelesaikan tugas ini maka anda harus memberikan akses SD Card kepada Solid Explorer. Mohon pilih media penyimpanan pada kolom sisi kiri lalu tekan tombol pilih. Pastikan itu bukan folder melainkan media paling pertama.</string>
+	<string name="sd_card_grant_next">Directory yang anda pilih salah. Mohon pilih media penyimpanan pada kolom sisi kiri lalu tekan tombol pilih. Pastikan itu bukan folder melainkan media paling pertama.</string>
+	<string name="external_storage_permission">Izin media eksternal</string>
+	<string name="grant">Izinkan</string>
+	<string name="social_networks">Mau mendapatkan informasi terbaru? Ikuti perkembangan Solid Explorer di Facebook, Twitter, dan Google+</string>
+	<string name="follow_me">Follow me!</string>
+	<string name="follow_me_summary">Dapatkan informasi terbaru tentang Solid Explorer</string>
+	<string name="follow_me_new_version">Halo Pengguna.\nSolid Explorer semakin mendekati versi final. Pada versi final, Solid Explorer akan menggunakan Material Design dan menggukan arsitektur plugin agar memudahkan pengembangan kedepannya. Jika anda mau mendapatkan informasi terbaru maka bergabunglah dengan kami di Facebook, Twitter dan Google+. Terima Kasih.</string>	
 </resources>
