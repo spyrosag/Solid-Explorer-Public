@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- ITALIAN by PieR @XDA - 18 Jul 2012 v1.0 --> 
-    <!-- last update: 09 Sep 2013 by Robertof <robertof dot public at gmail dot com>   -->
-    
+    <!-- last update: 03 Mar 2014 by Robertof <robertof dot public at gmail dot com>   -->
 
     <!-- bottom toolbar -->
     <string name="New">Crea</string>
@@ -656,7 +655,7 @@
     <string name="Icon_designer">Designer dell\'icona</string>
     <string name="Prefix">Prefisso</string>
     <string name="Translations">Traduzione</string>
-    <string name="Translations_summary">Traduzione Italiana originale di PieR@XDA \nSecondo aggiornamento/revisione di Roberto Frenna (robertof dot public at gmail dot com)</string>
+    <string name="Translations_summary">Traduzione Italiana mantenuta da Roberto Frenna (robertof dot public at gmail dot com).\nTraduzione originale di PieR@XDA</string>
     <string name="Empty">Vuoto</string>
     <string name="Press_once_again_to_exit">Premi ancora una volta per uscire</string>
 
@@ -870,4 +869,26 @@
         <string name="Enable_list_zoom_summary">Quando abilitato, puoi cambiare la dimensione della lista facendo un pinch-to-zoom</string>
         <string name="Mediafire_login">Accesso a MediaFire</string>
         <string name="No_master_password_set">La master password non è stata impostata</string>
+
+        <!-- v 1.5.1 -->
+        <string name="Ssl_certificate_is_not_trusted">Il certificato non è firmato da un\'authority fidata. Vuoi accettarlo?</string>
+        <string name="Issuer">Emittente</string>
+        <string name="Subject">Oggetto</string>
+        <string name="Expiration">Scadenza</string>
+        <string name="Common_name">Nome comune</string>
+        <string name="Organization">Organizzazione</string>
+        <string name="Organizational_unit">Unità organizzativa</string>
+        <string name="Country">Paese</string>
+        <string name="State">Stato</string>
+        <string name="Algorithm">Algoritmo</string>
+        <string name="Exponent">Esponente</string>
+        <string name="Key_length">Lunghezza chiave</string>
+        <string name="Accept">Accetta</string>
+        <string name="Rescan_all_media">Riscannerizza tutti i file multimediali</string>
+        <string name="Rescan_all_media_summary">Riscannerizza tutti i file multimediali dopo ogni trasferimento. Usa questa opzione se la galleria non si aggiorna appropriatamente.</string>
+        
+        <!--  v 1.5.7 -->
+        <string name="Chromecast_prompt">Solid Explorer ora supporta Chromecast! Con il plugin Cast puoi riprodurre video locali e remoti sul tuo Chromecast. Vuoi darci un\'occhiata?</string>
+        <string name="Install_chromecast_plugin">Installa il plugin per Chromecast</string>
+        <string name="Install_chromecast_summary">Riproduci video locali e remoti sul tuo Chromecast!</string>
 </resources>

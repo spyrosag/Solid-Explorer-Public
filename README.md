@@ -30,6 +30,4 @@ Current languages list
 * Russian - values-ru
 * Slovakian - values-sk
 * Hungarian - values-hu
-
-            - test
-            test
+* Turkish - values-tr

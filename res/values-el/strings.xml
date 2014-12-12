@@ -886,4 +886,9 @@
 <string name="Rescan_all_media">Νέα σάρωση όλων των μέσων</string>
 <string name="Rescan_all_media_summary">Νέα σάρωση όλων των μέσων μετά την κάθε μεταφορά αρχείων. Χρησιμοποιήστε αυτή την επιλογή εάν η Συλλογή δεν ενημερώνεται σωστά.</string>
 
+	<!-- v 1.5.7 -->
+<string name="Chromecast_prompt"> Ο Solid Explorer πλέον υποστηρίζει το Chromecast! Με το πρόσθετο Cast μπορεί να γίνει αναπαραγωγή τοπικών και απομακρυσμένων βίντεο στο Chromecast σας. Θέλετε να το δείτε;</string>
+<string name="Install_chromecast_plugin">Εγκατάσταση του προσθέτου Chromecast</string>
+<string name="Install_chromecast_summary">Αναπαραγωγή τοπικών και απομακρυσμένων βίντεο στο Chromecast σας!</string>
+
 </resources>

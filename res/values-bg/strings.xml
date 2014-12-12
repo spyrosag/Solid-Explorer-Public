@@ -203,7 +203,7 @@
     
     <!-- File sharing -->
     <string name="File_sharing_active">Файлово споделяне активирано</string>
-    <string name="ftp_server_hint">За да се свържете, напишете адреса на сървъра в адресната лента на Windows Explorer или изполвайте някой FTP клиент.</string>
+    <string name="ftp_server_hint">За да се свържете, напишете адреса на сървъра в адресната лента на Windows Explorer или използвайте някой FTP клиент.</string>
     <string name="You_cannot_share_root_directory">Не можете да споделите системната директория</string>
     <string name="File_sharing_stopped">Файлово споделяне спряно</string>
     <string name="None">Няма</string>
@@ -260,7 +260,7 @@
     <string name="Read">Четене</string>
     <string name="Write">Запис</string>
     <string name="Hidden">Скрит</string>
-    <string name="Additional_info">Дъполнителна информация</string>
+    <string name="Additional_info">Допълнителна информация</string>
     <string name="Percent">Процент</string>
     <string name="Music">Музика</string>
     <string name="Pictures">Снимки</string>
@@ -327,7 +327,7 @@
     	<string name="Are_you_sure_you_want_to_clear_the_history">Сигурни ли сте че искате да изчистите историята?</string>
     	<string name="Are_you_sure_you_want_to_clear_the_thumbnail_cache">Сигурни ли сте че искате да изчистите кеша с миниатюри?</string>
     	<string name="Are_you_sure_you_want_to_delete_temporary_files">Сигурни ли сте че искате да изтриете временните файлове?</string>
-    	<string name="It_is_time_for_sheduled_indexing">Време е за пранирано индексиране. Искате ли да изпълните индексиране сега?</string>
+    	<string name="It_is_time_for_sheduled_indexing">Време е за планирано индексиране. Искате ли да изпълните индексиране сега?</string>
     	<string name="Folder_exists_descr">Вече има папка със същото име в тази директория. Какво искате да направите?</string>
     	<string name="File_exists_descr">Вече има файл със същото име в тази директория. Какво искате да направите?</string>
     	<string name="Are_you_sure_you_want_to_delete">Сигурни ли сте че искате да изтриете \&quot;%\&quot;?</string>
@@ -551,11 +551,11 @@
     <string name="Move">Премести</string>
     
     <string name="Security">Защита</string>
-    <string name="Master_password_prompt">Solid Explorer използва главна парола за да криптира цялата инфрмация за вписване. Ако ви е грижа за сигурността е препоръчително да използвате тази функция. Ще бъдете подканени за главна парола само веднъж, освен ако рестартирате приложението. В противен случай се използва криптиране по подразбиране без парола. Искате ли да използвате тази функция?</string>
+    <string name="Master_password_prompt">Solid Explorer използва главна парола за да криптира цялата информация за вписване. Ако ви е грижа за сигурността е препоръчително да използвате тази функция. Ще бъдете подканени за главна парола само веднъж, освен ако рестартирате приложението. В противен случай се използва криптиране по подразбиране без парола. Искате ли да използвате тази функция?</string>
     <string name="Disable_master_password_warning">Изключването на главната парола ще доведе до превключване на паролата по подразбиране. Никога няма да бъдете попитани за нея. Информацията за вписване все още ще е криптирана. Искате ли да продължите?</string>
     <string name="Enable_master_password_warning">Ако имате предишни отметки криптирани с паролата по подразбиране, те ще бъдат премахнати. Продължаване?</string>
     <string name="Enable_master_password">Включи главна парола</string>
-	<string name="Too_weak_password">Паролата трябва да е поне 6 символа, но не поввече от 16 символа</string>
+	<string name="Too_weak_password">Паролата трябва да е поне 6 символа, но не повече от 16 символа</string>
     <string name="Enter_the_master_password">Въведете главна парола</string>
     <string name="Enter_a_new_master_password">Въведете нова главна парола.</string> 
     <string name="Encrypt_all_login_ceredentials_with_a_master_password">Криптира цялата информация за вписване с главна парола</string>
@@ -674,10 +674,10 @@
     <string name="Label_size_points">Размер текст (макс: 35pt)</string>
     <string name="Columns">Колони</string>
     <string name="No_computers_found">Няма намерени компютри</string>
-    <string name="Local_directory">Локална директроия</string>
+    <string name="Local_directory">Локална директория</string>
     <string name="Default_panel">Панел по подразбиране</string>
     <string name="Destination_type">Тип местоназначение</string>
-    <string name="DiskUsage_not_installed">Изглежда че DiskUsage не е нсталиран. Това приложение показва използването на паметта по много приятен и удобен за потребителя начин. Искате ли да го инсталирате сега?</string>
+    <string name="DiskUsage_not_installed">Изглежда че DiskUsage не е инсталиран. Това приложение показва използването на паметта по много приятен и удобен за потребителя начин. Искате ли да го инсталирате сега?</string>
     <string name="Text_copied_to_clipboard">Текста е копиран в клипборда</string>
     <string name="Force_english">Принуди Английски език</string>
     <string name="Force_english_summary">Отметнете ако предпочитате Английски като основен език. Влиза в сила след рестартиране.</string>
@@ -890,5 +890,20 @@
 	<!-- v 1.5.7 -->
 	<string name="Chromecast_prompt">Solid Explorer вече поддържа Chromecast! С Cast приставката можете да възпроизвеждате локални или отдалечени видео файлове с вашият Chromecast. Искате ли да го изпробвате сега?</string>
 	<string name="Install_chromecast_plugin">Инсталиране на Chromecast приставка</string>
-	<string name="Install_chromecast_summary">Възпроизвеждане на локални и отдалечети видео файлове с вашият Chromecast!</string>
+	<string name="Install_chromecast_summary">Възпроизвеждане на локални и отдалечени видео файлове с вашият Chromecast!</string>
+	
+	<!-- v 1.5.9 -->
+	<string name="Kitkat_notice">Не може да се променя съдържанието на SD картата. Причината е нова политика за външни носители въведена от Google в Android 4.4.
+	За да заобиколите това ограничение, трябва да използвате някои от \"sd fix\" инструментите налични в Google Play. Обаче, трябва да имате root права.</string>
+	
+	<!-- v 1.6.3 -->
+	<string name="sd_card_grant_first">Трябва да дадете достъп на Solid Explorer до SD картата, за да завърши тази операция. Моля, изберете желаното устройство за съхранение от лявата странична лента и натиснете бутона за избор в долната част. Убедете се, че сте в основата на това съхранение.</string>
+	<string name="sd_card_grant_next">Директорията, която току що избрахте е неправилна. Моля, изберете желаното устройство за съхранение от лявата странична лента и натиснете бутона за избор в долната част. Убедете се, че сте в основата на това съхранение.</string>
+	<string name="external_storage_permission">Разрешение за външен носител.</string>
+	<string name="grant">Позволи</string>
+	<string name="social_networks">Искате ли да бъдете в течение с новините? Следвайте разработката на Solid Explorer във Facebook, Twitter и Google+</string>
+	<string name="follow_me">Следвайте ме!</string>
+	<string name="follow_me_summary">Бъдете в течение на новините за Solid Explorer</string>
+	<string name="follow_me_new_version">Уважаеми потребители.\nНовата версия на Solid Explorer се приближава до финална версия. Ще включва Material Design и плъгин архитектура, което ще го направи по-лесен за разработка в бъдеще. Ако желаете да сте в течение с разработката, чувствайте се свободни да я следвате във Facebook, Twitter и  Google+. Благодаря Ви!</string>
+
 </resources>

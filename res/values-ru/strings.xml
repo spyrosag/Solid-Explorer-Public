@@ -884,4 +884,8 @@
     <string name="Accept">Допуск</string>
     <string name="Rescan_all_media">Повторное сканирование всех медиа</string>
     <string name="Rescan_all_media_summary">"Повторно сканировать все медиа файлы после каждой передачи файлов. (Используйте эту опцию, если галерея не обновляется должным образом)."</string>
+        	<!-- v 1.5.7 -->
+    <string name="Chromecast_prompt">Solid Explorer теперь поддерживает Chromecast! С его плагином вы можете использовать локальное и удаленное видео на Chromecast. Хотите проверить?</string>
+    <string name="Install_chromecast_plugin">Установка Chromecast плагина</string>
+    <string name="Install_chromecast_summary">Воспроизведение локального и удаленного видео на Chromecast!</string>
 </resources>
