@@ -684,8 +684,8 @@
     <string name="Encoding">Κωδικοποίηση</string>
     <string name="Network_thumbnails">Δικτυακές μικρογραφίες</string>
     <string name="Network_thumbnails_summary">Όταν επιλεχθεί, οι μικρογραφίες των εικόνων θα φορτώνονται ενώ γίνεται χρήση δεδομένων κινητής τηλεφωνίας.</string>
-    <string name="Copy_to">Αντιγραφή σε</string>
-    <string name="Move_to">Μετακίνηση σε</string>
+    <string name="Copy_to">Αντιγραφή δίπλα</string>
+    <string name="Move_to">Μετακίνηση δίπλα</string>
     <string name="Shortcut">Συντόμευση</string>
     <string name="Two_panels_in_landscape_summary">Εμφάνιση 2 καρτελών κατά τον οριζόντιο προσανατολισμό</string>
     <string name="Two_panels_in_landscape">Δύο καρτέλες οριζόντια</string>
@@ -890,5 +890,19 @@
 <string name="Chromecast_prompt"> Ο Solid Explorer πλέον υποστηρίζει το Chromecast! Με το πρόσθετο Cast μπορεί να γίνει αναπαραγωγή τοπικών και απομακρυσμένων βίντεο στο Chromecast σας. Θέλετε να το δείτε;</string>
 <string name="Install_chromecast_plugin">Εγκατάσταση του προσθέτου Chromecast</string>
 <string name="Install_chromecast_summary">Αναπαραγωγή τοπικών και απομακρυσμένων βίντεο στο Chromecast σας!</string>
+
+<!-- v 1.5.9 -->
+<string name="Kitkat_notice">Δεν είναι δυνατή η τροποποίηση των περιεχομένων της κάρτας SD. Αυτό οφείλεται στη νέα πολιτική εξωτερικής αποθήκευσης της Google στο Android 4.4.
+Για να παρακάμψετε αυτόν τον περιορισμό πρέπει να χρησιμοποιήσετε ένα από τα \"sd fix\" εργαλεία του Google Play. Όμως, θα πρέπει να έχετε κάνει root.</string>
+
+<!-- v 1.6.3 -->
+<string name="sd_card_grant_first">Πρέπει να επιτρέψετε την πρόσβαση του Solid Explorer στην κάρτα SD ώστε να ολοκληρώσετε αυτήν την ενέργεια. Παρακαλούμε επιλέξτε την επιθυμητή συσκευή αποθήκευσης από την αριστερή πλευρική γραμμή και πατήστε το πλήκτρο επιλογής στο κάτω μέρος. Βεβαιωθείτε ότι είστε στο ριζικό κατάλογο της αποθήκευσης.</string>
+<string name="sd_card_grant_next">Ο κατάλογος που επιλέξατε είναι λανθασμένος. Παρακαλούμε επιλέξτε την επιθυμητή συσκευή αποθήκευσης από την αριστερή πλευρική γραμμή και πατήστε το πλήκτρο επιλογής στο κάτω μέρος. Βεβαιωθείτε ότι είστε στο ριζικό κατάλογο της αποθήκευσης.</string>
+<string name="external_storage_permission">Άδεια εξωτερικής αποθήκευσης</string>
+<string name="grant">Πρόσβαση</string>
+<string name="social_networks">Θέλετε να μείνετε ενημερωμένοι; Ακολουθήστε την ανάπτυξη του Solid Explorer στο Facebook, Twitter και Google+</string>
+<string name="follow_me">Ακολουθήστε μας!</string>
+<string name="follow_me_summary">Μείνετε ενημερωμένοι σχετικά με τον Solid Explorer</string>
+<string name="follow_me_new_version">Αγαπητέ χρήστη.\nΗ νέα έκδοση του Solid Explorer πλησιάζει στην τελική διάθεση. Θα περιλαμβάνει Material Design και αρχιτεκτονική προσθέτων, που θα κάνει πιο εύκολη τη μελλοντική ανάπτυξη. Αν θέλετε να μείνετε ενημερωμένοι, ακολουθήστε την ανάπτυξη του Solid Explorer στο Facebook, Twitter και Google+. Ευχαριστούμε!</string>
 
 </resources>
